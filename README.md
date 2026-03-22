@@ -1,30 +1,8 @@
-# Jeffreys38
+## 👋 Hi! I'm Jeffrey
 
-![Role](https://img.shields.io/badge/Role-Senior%20Software%20Architect-orange)
-![Focus](https://img.shields.io/badge/Focus-Clean%20Code%20%7C%20OOP%20%7C%20System%20Design-blue)
+My core foundation lies in Full Stack Development (Node.js, Next.js, System Architecture), and my long-term focus is on AI-Native Engineering, Real-time Communication, and building "Agent-friendly" codebases. In recent months, I have been concentrating on First Principles AI Orchestration—leveraging LLMs (Claude 3.5, Cursor) to automate complex workflows, maintain strict code quality, and effectively bridge the gap in traditional industry experience.
+I am driven to grow into a top-tier Full Stack AI-Native Engineer, known for delivering highly scalable, enterprise-grade systems. I am deeply passionate about applying Product Thinking to solve root-cause problems rather than just executing code.
 
-## 👨‍💻 About Me
+## 📈 GitHub Metrics
 
-I am a Senior Software Architect and Clean Code Specialist passionate about building scalable, maintainable, and efficient software systems. My work emphasizes the strict application of OOP principles, design patterns, and rigorous safety protocols.
-
-## 🚀 Top Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[emulator-calculator](https://github.com/Jeffreys38/emulator-calculator)** | Advanced Math Emulator | React Native, TypeScript |
-| **[makko-server](https://github.com/Jeffreys38/makko-server)** | AI Model Serving API | Node.js, TypeScript |
-| **[nine-heaven-rpg](https://github.com/Jeffreys38/nine-heaven-rpg)** | 2D Xianxia RPG | Unity, C# |
-| **[elearning-tdmu](https://github.com/Jeffreys38/elearning-tdmu)** | Educational Aggregator | PHP, JavaScript |
-
-## 🌐 Connect
-
--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/qu%E1%BB%91c-th%E1%BA%AFng-tr%C6%B0%C6%A1ng-b%E1%BB%93-7362982b5)
--   [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:quocthang.work.software@gmail.com)
-
-## 🌍 Languages
-
--   [Tiếng Việt](./README_VN.md) (Coming Soon)
--   [Français](./README_FR.md) (Coming Soon)
-
----
-*© 2024 Jeffreys38. All Rights Reserved.*
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeffreys38&theme=tokyonight)
